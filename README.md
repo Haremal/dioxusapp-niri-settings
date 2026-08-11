@@ -1,1 +1,1 @@
-A aimple niri gui settings built in dioxus (CANCELLED)
+A aimple niri settings gui built in dioxus (CANCELLED)
